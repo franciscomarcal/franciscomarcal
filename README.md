@@ -1,7 +1,7 @@
 Olá, atualmente estudo Front-End.
 Tenho 62 anos de idade, no momento penso apenas em adquirir conhecimento.
 Há alguns anos atrás cursei por 2 (dois) semestres na Univesp, o curso de Engenharia da Computação.
-Mas por motivos pessoais, encerrei o curso.
+Mas por motivos pessoais, não dei continuidade no curso.
 
 
 <!---
